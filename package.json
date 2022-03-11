@@ -1,0 +1,13 @@
+{
+  "name": "nodedfb",
+  "version": "1.0.0",
+  "description": "Convert IranSystem",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vahid Rezazadeh (https://github.com/vahidrezazadeh)",
+  "license": "ISC",
+  "dependencies": {}
+}
